@@ -1,1 +1,1 @@
-node['mockbuild']['buildusers'] = ['vagrant']
+default['mockbuild']['buildusers'] = ['vagrant']
